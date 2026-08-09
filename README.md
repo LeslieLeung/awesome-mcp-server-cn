@@ -18,6 +18,7 @@
 - [阿里云](https://github.com/aliyun/alibaba-cloud-ops-mcp-server)
 - [Bilibili 热榜](https://github.com/xspadex/bilibili-mcp)
 - [LeetCode](https://github.com/jinzcdev/leetcode-mcp-server)
+- [jobfindsme：聚合 BOSS直聘、猎聘、智联招聘、前程无忧的本地求职雷达](https://github.com/russeell/jobfindsme)
 
 ## 其他资源
 
