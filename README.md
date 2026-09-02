@@ -18,6 +18,7 @@
 - [阿里云](https://github.com/aliyun/alibaba-cloud-ops-mcp-server)
 - [Bilibili 热榜](https://github.com/xspadex/bilibili-mcp)
 - [LeetCode](https://github.com/jinzcdev/leetcode-mcp-server)
+- [BulkPublish](https://app.bulkpublish.com/docs)（面向 AI Agent 的社交媒体内容创建、改写、定时、批量发布与分析；提供远程 Streamable HTTP MCP 端点及 npm 本地运行方式）
 
 ## 其他资源
 
