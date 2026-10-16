@@ -19,6 +19,8 @@
 - [Bilibili 热榜](https://github.com/xspadex/bilibili-mcp)
 - [LeetCode](https://github.com/jinzcdev/leetcode-mcp-server)
 
+- [Doc2X MCP](https://github.com/NoEdgeAI/doc2x-mcp) — NoEdgeAI 官方 PDF/图片解析、文档导出与版面 JSON MCP；MIT 开源 stdio 服务，需自备 API Key，云端 API 按用量计费。
+
 ## 其他资源
 
 - [Model Context Protocol](https://modelcontextprotocol.io)
