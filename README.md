@@ -19,6 +19,8 @@
 - [Bilibili 热榜](https://github.com/xspadex/bilibili-mcp)
 - [LeetCode](https://github.com/jinzcdev/leetcode-mcp-server)
 
+- [可灵 AI MCP（国内）](https://github.com/klingai-dev/openclaw-plugin) — 官方图像/视频生成、参考创作和任务查询；国内端点 `https://klingai.com/mcp/plugin`（Streamable HTTP + OAuth），需国内账号授权，生成消耗积分，国内与海外账号、积分和任务 ID 不互通。接入：`claude mcp add --transport http kling-ai-cn https://klingai.com/mcp/plugin`；链接为集成插件及接入文档，并非托管服务端源码。
+
 ## 其他资源
 
 - [Model Context Protocol](https://modelcontextprotocol.io)
