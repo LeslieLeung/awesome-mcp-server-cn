@@ -18,6 +18,7 @@
 - [阿里云](https://github.com/aliyun/alibaba-cloud-ops-mcp-server)
 - [Bilibili 热榜](https://github.com/xspadex/bilibili-mcp)
 - [LeetCode](https://github.com/jinzcdev/leetcode-mcp-server)
+- [okdata（抖音、小红书、公众号等社媒数据）](https://okdata.online/zh/mcp/)
 
 ## 其他资源
 
