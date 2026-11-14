@@ -18,6 +18,7 @@
 - [阿里云](https://github.com/aliyun/alibaba-cloud-ops-mcp-server)
 - [Bilibili 热榜](https://github.com/xspadex/bilibili-mcp)
 - [LeetCode](https://github.com/jinzcdev/leetcode-mcp-server)
+- [Scrapewise – 远程 MCP 服务，抓取、清洗并匹配任意网站的商品和价格数据](https://github.com/BEBOTECH-OU/scrapewise-mcp)
 
 ## 其他资源
 
