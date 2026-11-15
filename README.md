@@ -25,6 +25,8 @@
 - [awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers)
 - [Awesome-MCP-ZH](https://github.com/yzfly/Awesome-MCP-ZH)
 
+- [No Stairs Please MCP](https://nostairsplease.com/mcp) - Live music venue & booking directory MCP server for all 50 US states ([nostairsplease.com](https://nostairsplease.com/))
+
 ## 贡献
 
 如果你知道更多国内服务的 MCP Server，请提交 PR 添加。
