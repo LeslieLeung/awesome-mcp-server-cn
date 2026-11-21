@@ -18,6 +18,7 @@
 - [阿里云](https://github.com/aliyun/alibaba-cloud-ops-mcp-server)
 - [Bilibili 热榜](https://github.com/xspadex/bilibili-mcp)
 - [LeetCode](https://github.com/jinzcdev/leetcode-mcp-server)
+- [i2v.ai](https://github.com/i2v-ai/i2v-mcp) - 图片与视频生成 MCP Server：覆盖 12 个图片模型和 16 个视频模型，支持文生视频、图生视频；每次付费任务先返回美元报价，可设置消费上限
 
 ## 其他资源
 
